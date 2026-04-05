@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/">
+    <file>Images/SPCPlayer Icon.ico</file>
+    <file>Images/Mirror.png</file>
+    <file>Translations/qtbase_zh_CN.qm</file>
+  </qresource>
+</RCC>
