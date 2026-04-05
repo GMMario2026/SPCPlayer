@@ -6,7 +6,7 @@
 
 <p align="center">
     <a href="https://github.com/GMMario2026/SPCPlayer/releases/"><img src="https://img.shields.io/github/release/GMMario2026/SPCPlayer.svg" alt="GitHub release"></a>
-    <a href="https://github.com/GMMario2026/SPCPlayer/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT license"></a>
+    <a href="https://github.com/GMMario2026/SPCPlayer/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT license"></a>
     <a href="https://github.com/GMMario2026/SPCPlayer/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
     <a href="https://github.com/GMMario2026"><img src="https://img.shields.io/badge/Donate-contact%20me-green.svg" alt="Donate"></a>
 </p>
@@ -50,4 +50,4 @@
 
 ## 许可证
 
-本项目基于 [MIT](https://github.com/GMMario2026/SPCPlayer/blob/master/LICENSE) 许可证开源。
+本项目基于 [MIT](https://github.com/GMMario2026/SPCPlayer/blob/main/LICENSE) 许可证开源。
