@@ -1006,7 +1006,7 @@ AboutDialog::AboutDialog(QWidget *parent) : QDialog(parent) {
                           Qt::AlignmentFlag::AlignTop);
   textLabel->setMargin(10);
   textLabel->setText("SPC 播放器\n版本：1.01\nQt 版本：6.8.3\n基于 MIT "
-                     "协议开源\n开发者：@GMMario2026");
+                     "协议开源\nCopyright (C) GMMario2026");
   layout->addWidget(textLabel, 1, 1, 1, 2);
 
   auto frame = new QFrame(this);
