@@ -1,4 +1,4 @@
-QT += multimedia
+QT += multimedia openglwidgets
 
 SOURCES += \
     pyin/Yin.cpp \
